@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ddbdb465-0f95-4c58-82d8-25bbc3a876c1" name="upzarpay.com" url="http://upzarpay.com">
+        <fileTransfer rootFolder="/home/upzaefnp" accessType="SFTP" host="upzarpay.com" port="21098" sshConfigId="63e26ad3-e188-469e-9639-efe10ed247a4" sshConfig="upzaefnp@upzarpay.com:21098 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
